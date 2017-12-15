@@ -1,0 +1,7 @@
+li a {
+    color: green;
+    text-decoration: none;
+}
+li a:visited {
+	color: green;
+}
